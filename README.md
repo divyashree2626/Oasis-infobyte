@@ -1,6 +1,8 @@
 🌟 Oasis Infobyte Internship – Web Development (Level 2)
 🙋‍♀️ About Me
 
+ASPIRING MERN STACK DEVELOPMENT 
+
 I'm **Divyashree K**, a passionate and self-motivated BCA student from Chennai with a strong interest in **Full Stack Web Development**, **UI/UX Design**, and **Creative Frontend Projects**.
 
 I believe in learning by doing, which led me to explore HTML, CSS, JavaScript, Python, and design tools. During my internship at **Oasis Infobyte**, I strengthened my practical skills by building real-world web applications from scratch.
