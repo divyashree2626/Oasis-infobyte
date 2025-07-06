@@ -1,6 +1,19 @@
 🌟 Oasis Infobyte Internship – Web Development (Level 2)
+🙋‍♀️ About Me
 
-Hi! I'm Divyashree K, and this repository contains all my completed tasks as part of the **Level 2 Web Development Internship** at **Oasis Infobyte**.
+I'm **Divyashree K**, a passionate and self-motivated BCA student from Chennai with a strong interest in **Full Stack Web Development**, **UI/UX Design**, and **Creative Frontend Projects**.
+
+I believe in learning by doing, which led me to explore HTML, CSS, JavaScript, Python, and design tools. During my internship at **Oasis Infobyte**, I strengthened my practical skills by building real-world web applications from scratch.
+
+This internship helped me:
+- Improve my coding and debugging skills 🧠
+- Understand responsive design and user-friendly interfaces 📱
+- Build complete frontend projects with confidence 💻
+
+I am always eager to take on new challenges and continuously upskill myself to become a better developer every day.
+
+
+This repository contains all my completed tasks as part of the **Level 2 Web Development Internship** at **Oasis Infobyte**.
 
 ---
 
